@@ -50,10 +50,10 @@ To get started, let’s add a table to store the notification settings.
 
 1. Set the minimum number of digits to 4, and the seed value as 1000.
 
-1. Using **Add column** on the top, add the following columns.
+1. Using **Add column** on the top, add the following 2 columns.
 
     | Column name | Data type | Related table |
-    | - | - |
+    -------------------------------------------
     | User ID | Lookup | User |
     | Category | Lookup | Bulletin Category |
 
