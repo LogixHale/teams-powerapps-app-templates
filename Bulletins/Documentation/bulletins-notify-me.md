@@ -59,7 +59,7 @@ To get started, let’s add a table to store the notification settings.
 
 ## Add a toggle control to turn the notifications on and off
 
-1. In the Bulletins app.
+1. In PowerApps, go to the Bulletins app.
 
 1. From the **Tree view**, select the **Home** screen.
 
