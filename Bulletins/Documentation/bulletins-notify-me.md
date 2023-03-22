@@ -61,7 +61,7 @@ To get started, let’s add a table to store the notification settings.
 
 1. In the Bulletins app.
 
-1. From the **Tree view**, select the **Home** screen.
+1. From the **Tree view**, select the **cnvHome** screen.
 
 1. Select **galBulletins_ByCategory** from the tree view.
 
